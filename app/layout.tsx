@@ -22,8 +22,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jusar Culpables — Full Stack Web Developer",
-  description: "Full Stack Web Developer based in Cebu, Philippines.",
+  title: "Jusar Culpables — Mid Level Full Stack Web Developer",
+  description: "Mid Level Full Stack Web Developer based in Cebu, Philippines.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
