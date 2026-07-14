@@ -21,7 +21,7 @@ export const projects: Project[] = [
     title: "Hammack Law Firm",
     description: "A AD Landingpage created using Wordpress, Next.js and Typescript",
     image: "/projects/hammacklawfirm-landingpage.png",
-    tags: ["Wordpress","Vercel", "Github", "HTML/CSS", "Next.Js", "Typscript"],
+    tags: ["WordPress","Vercel", "Github", "HTML/CSS", "Next.Js", "Typscript"],
     url: "https://hammacklawfirm.com/ad-landin/",
   },
    {
